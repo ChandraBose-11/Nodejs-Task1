@@ -14,10 +14,10 @@ The filename is the current date-time.txt[dd-mm-yyyy hh-mm-ss.txt].
 
 # Render URL:
 
-### Create url :  
+### Create url : http://nodejs-task1-h2gi.onrender.com/create
 
-### Read url :  https://
+### Read url :  http://nodejs-task1-h2gi.onrender.com/read
 
 ### Postman documentation:
 
-### 
+### https://documenter.getpostman.com/view/38460748/2sAXqs7N1p
